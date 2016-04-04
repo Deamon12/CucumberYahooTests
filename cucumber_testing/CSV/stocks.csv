@@ -1,4 +1,0 @@
-classname,change,chg_percent,day_high,day_low,issuer_name,issuer_name_lang,name,price,symbol,ts,type,utctime,volume,year_high,year_low
-Quote,-0.430000,-1.080403,39.709999,39.299999,GlaxoSmithKline plc,GlaxoSmithKline plc,GlaxoSmithKline PLC Common Stoc,39.369999,GSK,1458763294,equity,2016-03-23T20:01:34+0000,4748916,48.450000,37.240000
-Quote,-0.590004,-0.552852,107.070000,105.900002,Apple Inc.,Apple Inc.,Apple Inc.,106.129997,AAPL,1458763200,equity,2016-03-23T20:00:00+0000,25703495,134.540000,92.000000
-Quote,-2.690002,-0.363146,745.719910,736.150024,Alphabet Inc.,Alphabet Inc.,Alphabet Inc.,738.059998,GOOG,1458763200,equity,2016-03-23T20:00:00+0000,1432099,789.870000,515.180000

@@ -1,4 +1,7 @@
-# CucumberYahooStockTests
+
+
+
+# CucumberYahooStockTests <img src="http://jhipster.github.io/img/svg/cucumber.svg" alt="Drawing" style="width: 30px;"/>
 A set of Cucumber tests that check the results of Yahoo stock web-service calls.
 
 

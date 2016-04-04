@@ -1,6 +1,6 @@
 
 
-<img src="http://jhipster.github.io/img/svg/cucumber.svg" width="30" height="30"/> 
+<img src="http://jhipster.github.io/img/svg/cucumber.svg" width="30" height="30"/> <img src="http://l.yimg.com/a/p/fi/31/09/00.jpg" width="30" height="30"/> 
 
 # CucumberYahooStockTests
 

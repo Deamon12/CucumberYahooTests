@@ -1,5 +1,11 @@
 
-#Read, parse, eval CSV
+#Given a saved CSV file with stock data,
+#Check that succesful stock information is recieved from REST API
+#
+#Read CSV, Parse CSV, Create REST Call, Check returned information for accuracy
+#
+
+
 @tag
 Feature: Check Yahoo API results when compared to CSV results
 	

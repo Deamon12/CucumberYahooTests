@@ -110,6 +110,7 @@ public class YahooFinanceApp {
 
 		analyzeStocks(responseObject.getJSONObject("query").getJSONObject("results").getJSONArray("quote"));
 
+		
 		return response;
 
 	}

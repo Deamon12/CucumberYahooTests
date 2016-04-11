@@ -2,8 +2,7 @@
 
 <img src="http://jhipster.github.io/img/svg/cucumber.svg" width="30" height="30"/> <img src="http://l.yimg.com/a/p/fi/31/09/00.jpg" width="30" height="30"/> 
 
-# CucumberYahooStockTests
-
+# Cucumber.io Tests	<a href="https://docs.google.com/document/d/1KV1jwg85dbFfqe7JxdPlmLc-nj3y7ZBanD9M9q0dYCY/edit?usp=sharing"> <img src="Docs-icon.png" width="30" height="30"/> </a>
 
 
 A set of Cucumber tests that check the results of Yahoo stock web-service calls.
